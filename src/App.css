@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+
+.todo{
+ 
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15%; 
+}
+
+.test{
+  display:flex;
+  margin-top: 50px;
+ 
+}
+
+.test input{
+  margin-left: 550px;
+}
+
+.test button{
+  margin-left: 20px;
+} 
+
+
+.tableCheck{
+  width: 50%;
+  margin-top: 30px;
+  text-align: center;
+  /* justify-content: center; */
+  margin-left: 300px;
+  
+ 
+}
+
+table,tr, th, td {
+  border: 2px solid black;
+  /* border-collapse: collapse; */
+}
